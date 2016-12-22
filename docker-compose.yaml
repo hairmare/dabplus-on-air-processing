@@ -1,0 +1,4 @@
+dab:
+  build: .
+  volumes:
+    - "./output:/srv/archive"
